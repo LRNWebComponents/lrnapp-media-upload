@@ -1,0 +1,8 @@
+{
+  "name": "lrnapp-media-upload",
+  "description": "Media management application",
+  "main": "index.html",
+  "dependencies": {
+    "vaadin-upload": "vaadin/vaadin-upload#^1.1.4"
+  }
+}
